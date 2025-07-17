@@ -7,7 +7,7 @@ Seluruh kode ditulis dan dijalankan secara modular (terpisah per file) untuk men
 Database yang digunakan: **cars.db**  
 Tabel utama: **TBCars**
 
-#Urutan Eksekusi:
+#Urutan Eksekusi Normal:
 1. CreateTable.py = buat tabel dengan menjalankannya cukup sekali saja.
 2. InsertData.py = menambahkan isi data dari isi tabel.
 3. SelectData.py = untuk memverifikasi data yang sudah masuk.
@@ -17,3 +17,14 @@ Tabel utama: **TBCars**
 7. SelectData.py = untuk melihat hasil setelah penghapusan.
 8. SearchData.py = untuk mencari data tertentu berdasarkan ID.
 
+#Urutan Eksekusi Tambahan:
+1. CreateTable.py = buat tabel dengan menjalankannya cukup sekali saja.
+2. InsertData.py = menambahkan isi data dari isi tabel.
+3. SelectData.py = untuk memverifikasi data yang sudah masuk.
+4. UpdateData.py = untuk mengubah data berdasarkan ID.
+5. SelectData.py = untuk mengecek hasil perubahan (update).
+6. InsertData1.pp = karena saya ingin membuat ulang datanya dan menambahkan beberapa isi datanya.
+7.  
+8. DeleteData.py = untuk menghapus data berdasarkan ID.
+9. SelectData.py = untuk melihat hasil setelah penghapusan.
+10. SearchData.py = untuk mencari data tertentu berdasarkan ID.
