@@ -1,5 +1,5 @@
 # PraktikumPBL02-ALTA2A1-SatriaBayuAnanta(036)
-Repository ini berisi hasil praktikum UAS mata kuliah PBL02 yang berfokus pada pengelolaan database menggunakan SQLite3 dan bahasa pemrograman Python.  
+Repository ini berisi hasil praktikum UAS mata kuliah Algoritma dan Struktur Data (ALTA) yang berfokus pada pengelolaan database menggunakan SQLite3 dan bahasa pemrograman Python.  
 Seluruh kode ditulis dan dijalankan secara modular (terpisah per file) untuk menunjukkan pemahaman terhadap operasi CRUD (Create, Read, Update, Delete) dan Search.
 
 Database yang digunakan: **cars.db**  
