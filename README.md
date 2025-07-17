@@ -31,3 +31,15 @@ Tabel utama: **TBCars**
 11. InsertData1.py = insert lagi dengan menghapus kembali semua data pada tabel **TBCars** dan membuat ulang isi datanya.
 12. SearchData.py = untuk mencari data tertentu berdasarkan ID (disini saya ingin mencari isi data yang diwakili oleh ID 101).
 13. SearchData1.py = untuk mencari data tertentu berdasarkan ID (disini saya ingin mencari isi data yang diwakili oleh ID 102).
+
+Seluruh file pada repository ini merupakan hasil dari Praktikum UAS PBL02 yang mengimplementasikan operasi database menggunakan SQLite3 dan Python.
+Semua script telah diuji dan berjalan dengan baik secara terpisah sesuai fungsi masing-masing.
+Diharapkan repository ini dapat menjadi referensi dalam memahami dasar pengelolaan database menggunakan Python.
+
+Terima kasih.
+
+# Authors:
+Nama  : Satria Bayu Ananta
+Nim   : 241080200036
+Prodi : Informatika - Universitas Muhammadiyah Sidoarjo
+Tahun : 2024/2025
