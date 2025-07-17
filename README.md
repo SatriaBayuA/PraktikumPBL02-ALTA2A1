@@ -38,6 +38,9 @@ Terima kasih.
 
 # Authors:
 Nama  : Satria Bayu Ananta
+
 Nim   : 241080200036
+
 Prodi : Informatika - Universitas Muhammadiyah Sidoarjo
+
 Tahun : 2024/2025
