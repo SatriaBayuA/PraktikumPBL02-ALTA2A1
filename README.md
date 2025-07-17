@@ -1,5 +1,5 @@
 # PraktikumPBL02-ALTA2A1-SatriaBayuAnanta(036)
-Laporan Praktikum Kelas ALTA2A1 GN2425 presented by Satria Bayu Ananta | Kode Tugas Praktikum: PraktikumPBL02.
+Laporan Praktikum Kelas ALTA2A1 GN2425 by Satria Bayu Ananta | Kode Tugas Praktikum: PraktikumPBL02.
 -
 Repository ini berisi hasil praktikum UAS mata kuliah PBL02 yang berfokus pada pengelolaan database menggunakan SQLite3 dan bahasa pemrograman Python.  
 Seluruh kode ditulis dan dijalankan secara modular (terpisah per file) untuk menunjukkan pemahaman terhadap operasi CRUD (Create, Read, Update, Delete) dan Search.
