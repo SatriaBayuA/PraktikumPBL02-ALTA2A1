@@ -25,9 +25,9 @@ Tabel utama: **TBCars**
 5. SelectData.py = untuk mengecek hasil perubahan (update).
 6. InsertData1.py = karena saya ingin membuat ulang datanya dan menambahkan beberapa isi datanya seperti ID 102 dan ID 103.
 7. Selectdata.py = untuk mengecek hasil data baru yang sudah masuk.
-8. DeleteData.py = untuk menghapus data berdasarkan ID (disini saya ingin menghapus ID 103), namun tanpa print hasilnya diterminal sehingga harus cek kembali ke SelectData.py.
+8. DeleteData.py = untuk menghapus data berdasarkan ID (disini saya ingin menghapus ID 102), namun tanpa print hasilnya diterminal sehingga harus cek kembali ke SelectData.py.
 9. SelectData.py = untuk melihat hasil setelah pengahapusan ID 102.
-10. DeleteData1.py = untuk menghapus data berdasarkan ID (ID 103), namun pada kode ini akan menampilkan hasilnya diterminal dengan memasukan select * from pada kolom editor.
+10. DeleteData1.py = untuk menghapus data berdasarkan ID (ID 103), namun pada kode ini akan menampilkan hasilnya diterminal dengan memasukan select * from pada kolom editor dan print(k.fetchall()).
 11. InsertData1.py = insert lagi dengan menghapus kembali semua data pada tabel **TBCars** dan membuat ulang isi datanya.
 12. SearchData.py = untuk mencari data tertentu berdasarkan ID (disini saya ingin mencari isi data yang diwakili oleh ID 101).
 13. SearchData1.py = untuk mencari data tertentu berdasarkan ID (disini saya ingin mencari isi data yang diwakili oleh ID 102).
